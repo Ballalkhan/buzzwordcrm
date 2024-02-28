@@ -1,5 +1,7 @@
 # BuzzwordCRM
 
+cp .env.example .env
+
 BuzzwordCRM is a sample application that demonstrates how to build applications using Calendly's v2 api.
 
 ## Running the app locally
